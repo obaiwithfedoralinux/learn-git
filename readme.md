@@ -1,4 +1,4 @@
-# learn git and gitjub
+# learn git and github
 
 ## keep going on that
 
